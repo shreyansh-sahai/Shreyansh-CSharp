@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=32badc25_002Deab5_002D4540_002Da7cd_002Dc5d65b7b44d8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="EventOrganiserA_ShouldBeEqualTo_EventOrganiserA" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CC9CF3E7-6B44-4AFE-9F4C-28701660B485::net8.0::Shreyansh_CSharp.Tests.EventOrganiserA_ShouldBeEqualTo_EventOrganiserA&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CC9CF3E7-6B44-4AFE-9F4C-28701660B485::net8.0::Shreyansh_CSharp.Tests.AddConferenceRoomToCustomer&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CC9CF3E7-6B44-4AFE-9F4C-28701660B485::net8.0::Shreyansh_CSharp.Tests.GSTShouldBe_3360_1Cabin50HoursConference10Meals&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8b13faa7_002D1a05_002D4074_002Dbfae_002D7f03acf410ba/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CC9CF3E7-6B44-4AFE-9F4C-28701660B485::net8.0::Shreyansh_CSharp.Tests.EventOrganiserA_ShouldBeEqualTo_EventOrganiserA&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CC9CF3E7-6B44-4AFE-9F4C-28701660B485::net8.0::Shreyansh_CSharp.Tests.AddConferenceRoomToCustomer&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
