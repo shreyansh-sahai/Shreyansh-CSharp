@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15edc43f-1df0-44a3-89b7-ae19623d7e70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shreyansh-CSharp/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shreyansh-CSharp/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shreyansh-CSharp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shreyansh-CSharp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shreyansh-CSharp.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shreyansh-CSharp.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shreyansh-CSharp/Event.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shreyansh-CSharp/EventOrganiser.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shreyansh-CSharp/ReturnType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shreyansh-CSharp/Seating.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shreyansh-CSharp/Shreyansh-CSharp.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shreyansh-CSharp/UnitTest1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Shreyansh-CSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shreyansh-CSharp/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +18,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shreyansh-sahai"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shreyansh-sahai/Shreyansh-CSharp.git",
+    "accountId": "da75a2ff-68bd-40b3-890e-c76c5c899496"
+  }
+}]]></component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -46,7 +46,7 @@
     "32badc25-eab5-4540-a7cd-c5d65b7b44d8.executor": "Debug",
     "8b13faa7-1a05-4074-bfae-7f03acf410ba.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,7 +73,7 @@
       <updated>1721044064561</updated>
       <workItem from="1721044066523" duration="3354000" />
       <workItem from="1721107258087" duration="14296000" />
-      <workItem from="1721131402677" duration="4080000" />
+      <workItem from="1721131402677" duration="5272000" />
     </task>
     <servers />
   </component>
